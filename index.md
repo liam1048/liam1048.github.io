@@ -6,7 +6,7 @@ description: 首页啊
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[k20pro 安装Linux deploy] (.docs/k20pro linux deploy.md)
+[k20pro 安装Linux deploy] (./docs/k20pro linux deploy.html)
 
 There should be whitespace between paragraphs.
 
