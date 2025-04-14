@@ -1,5 +1,6 @@
 ---
 layout: default
+description: 首页啊
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
