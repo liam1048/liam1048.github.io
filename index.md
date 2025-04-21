@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 首页
-description: Take some notes
+description: Just take some notes.
 ---
 
 1. [Link to another page](./another-page.html).
