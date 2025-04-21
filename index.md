@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 首页 / Index
+title: 首页
 description: Take some notes
 ---
 
