@@ -8,3 +8,4 @@ description: Just take some notes.
 
 2. [k20pro 安装Linux deploy](./docs/k20pro_linux_deploy.md).
 
+3. [在groovy中使用easyexcel读取文件报错](./docs/groovy_easyexcel.md)
