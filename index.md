@@ -10,4 +10,4 @@ description: Just take some notes.
 
 3. [在groovy中使用easyexcel读取文件报错](./docs/groovy_easyexcel.md).
 
-4. [git cherry pick 使用注意事项](./dos/git_cherry_pick_issue.md).
+4. [git cherry pick 使用注意事项](./docs/git_cherry_pick_issue.md).
