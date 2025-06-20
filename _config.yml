@@ -1,5 +1,6 @@
 title: Notes
 description: Take some notes
 show_downloads: false
+github.is_project_page: true
 google_analytics:
 theme: jekyll-theme-cayman
